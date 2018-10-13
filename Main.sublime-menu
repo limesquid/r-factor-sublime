@@ -29,31 +29,6 @@
               },
               { "caption": "-" },
               {
-                "caption": "Key Bindings – Default",
-                "platform": "Linux",
-                "command": "open_file",
-                "args": {
-                  "file": "${packages}/r-factor/Default (Linux).sublime-keymap"
-                }
-              },
-              {
-                "caption": "Key Bindings – Default",
-                "platform": "Windows",
-                "command": "open_file",
-                "args": {
-                  "file": "${packages}/r-factor/Default (Windows).sublime-keymap"
-                }
-              },
-              {
-                "caption": "Key Bindings – Default",
-                "platform": "OSX",
-                "command": "open_file",
-                "args": {
-                  "file": "${packages}/r-factor/Default (OSX).sublime-keymap"
-                }
-              },
-              { "caption": "-" },
-              {
                 "caption": "Read Me",
                 "command": "open_file",
                 "args": {
