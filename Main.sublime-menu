@@ -41,11 +41,6 @@
                 "args": {
                   "file": "${packages}/r-factor/LICENSE"
                 }
-              },
-              { "caption": "-" },
-              {
-                "caption": "Enter License Key",
-                "command": "enter_license"
               }
             ]
           }
