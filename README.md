@@ -5,8 +5,6 @@
 
   <h1>R-Factor extension for Sublime Text 3</h1>
 
-  <p>React & Redux Refactoring Tools</p>
-
   <p>
     <img src="https://img.shields.io/github/package-json/v/limesquid/r-factor-sublime.svg" alt="Version" />
     <a href="https://github.com/limesquid/r-factor-sublime/blob/master/LICENSE">
@@ -15,12 +13,18 @@
   </p>
 
   <p>
-    <a href="https://r-factor.org">Website</a> | <a href="https://r-factor.org/documentation">Documentation</a>
+    <a href="https://r-factor.org">Website</a> • <a href="https://r-factor.org/documentation">Documentation</a>
   </p>
 
+  <hr />
+
   <p>
-    <a href="https://github.com/limesquid/r-factor">R-Factor</a> | <a href="https://github.com/limesquid/r-factor-atom">Atom</a> | <a href="https://github.com/limesquid/r-factor-sublime">Sublime Text</a> | <a href="https://github.com/limesquid/r-factor-vscode">Visual Studio Code</a>
+    <a href="https://github.com/limesquid/r-factor">R-Factor</a> • <a href="https://github.com/limesquid/r-factor-website">r-factor.org</a>
+    <br />
+    <a href="https://github.com/limesquid/r-factor-atom">Atom</a> • <a href="https://github.com/limesquid/r-factor-sublime">Sublime Text</a> • <a href="https://github.com/limesquid/r-factor-vscode">Visual Studio Code</a>
   </p>
+
+  <hr />
 </div>
 
 ## Install
