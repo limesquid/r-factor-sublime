@@ -1,0 +1,20 @@
+{
+  "name": "r-factor-sublime",
+  "version": "1.0.0",
+  "description": "React & Redux Refactoring Tools",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limesquid/r-factor-sublime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/limesquid/r-factor-sublime/issues"
+  },
+  "homepage": "https://r-factor.org",
+  "dependencies": {
+    "r-factor": "^1.0.0"
+  }
+}

@@ -9,7 +9,9 @@ from r_factor_utils import node_bridge
 BIN_PATH = os.path.join(
   sublime.packages_path(),
   os.path.dirname(os.path.realpath(__file__)),
-  'r-factor.js'
+  'node_modules',
+  'dist',
+  'cli.js'
 )
 
 class BaseCommand(sublime_plugin.TextCommand):
