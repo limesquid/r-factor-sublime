@@ -54,3 +54,16 @@ npm install
 ```Shell
 rm -rf ~/.config/sublime-text-3/Packages/r-factor-sublime
 ```
+
+## Configure NODE_BIN
+
+If `node` executable is not available in `PATH` env variable you might get `'NoneType' object is not subscriptable` error. In this case you need to manually set `NODE_BIN` path.
+
+First, find out path to your node executable (e.g. `which node`).
+Then, in Sublime go to "Preferences" -> "Package Settings" -> "R-Factor" -> "Settings - User", set `NODE_BIN` and save.
+
+```json
+{
+  "NODE_BIN": "<<<<PASTE PATH TO NODE EXECUTABLE HERE>>>>"
+}
+```
