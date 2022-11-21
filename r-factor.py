@@ -10,6 +10,7 @@ BIN_PATH = os.path.join(
   sublime.packages_path(),
   os.path.dirname(os.path.realpath(__file__)),
   'node_modules',
+  'r-factor',
   'dist',
   'cli.js'
 )
