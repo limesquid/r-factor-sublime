@@ -32,7 +32,7 @@
 ### Stable version
 
 ```Shell
-wget -c https://github.com/limesquid/r-factor-sublime/archive/refs/tags/1.0.0.zip -O r-factor-sublime.zip
+wget -c https://github.com/limesquid/r-factor-sublime/archive/refs/tags/1.0.1.zip -O r-factor-sublime.zip
 mkdir -p ~/.config/sublime-text-3/Packages
 unzip r-factor-sublime.zip -d ~/.config/sublime-text-3/Packages
 rm r-factor-sublime.zip
