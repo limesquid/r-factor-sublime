@@ -15,6 +15,6 @@
   },
   "homepage": "https://r-factor.org",
   "dependencies": {
-    "r-factor": "^1.0.0"
+    "r-factor": "^1.0.1"
   }
 }
